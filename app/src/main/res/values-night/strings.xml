@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_text_go_to_the_second_screen_of_the_app">Go to the second screen of the App!</string>
+    <string name="tv_text_the_first_screen_of_the_app">It\'s the first screen of the App!</string>
+</resources>

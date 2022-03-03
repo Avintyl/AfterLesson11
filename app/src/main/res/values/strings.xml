@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AfterLesson11</string>
+    <string name="btn_text_go_to_the_first_screen_of_the_app">Go to the first screen of the App!</string>
+    <string name="btn_text_go_to_the_second_screen_of_the_app">Go to the second screen of the App!</string>
+    <string name="btn_text_go_to_the_third_screen_of_the_app">Go to the third screen of the App!</string>
+    <string name="tv_text_the_first_screen_of_the_app">It\'s the first screen of the App!</string>
+    <string name="tv_text_the_second_screen_of_the_app">It\'s the second screen of the App!</string>
+    <string name="tv_text_the_third_screen_of_the_app">It\'s the third screen of the App!</string>
+</resources>
